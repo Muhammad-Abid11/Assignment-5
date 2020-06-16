@@ -359,30 +359,198 @@
 
 //****************     Assignment 7 *****   Task 3 **********
 
-var color=prompt("","Enter Color ");
-if(color==="red" || color==="Red")
-{
-    document.write("Must Stop!");
-}
-else if(color==="yellow" || color==="Yellow")
-{
-    document.write("Ready to move!");
-}
-else if(color==="Green" || color==="green")
-{
-    document.write("Move Now!");
-}
-else if(color!=="Green" || color!=="green" || color!=="yellow" || color!=="Yellow" || color!=="red" || color!=="Red")
-{
-    document.write("Invalid color!");
-}
+// var color=prompt("","Enter Color ");
+// if(color==="red" || color==="Red")
+// {
+//     document.write("Must Stop!");
+// }
+// else if(color==="yellow" || color==="Yellow")
+// {
+//     document.write("Ready to move!");
+// }
+// else if(color==="Green" || color==="green")
+// {
+//     document.write("Move Now!");
+// }
+// else if(color!=="Green" || color!=="green" || color!=="yellow" || color!=="Yellow" || color!=="red" || color!=="Red")
+// {
+//     document.write("Invalid color!");
+// }
 //****************     Assignment 7 *****   Task 4 **********
-//****************     Assignment 7 *****   Task 5 **********
+
+// var fuel=prompt("","Enter Remaining Fuel");
+// if(fuel<0.25){
+//     alert("Please refil the fuel in your car");
+// }else{
+//     alert("Keep Driving!");
+// }
+
+//****************     Assignment 7 *****   Task 5  part 'a' **********
+
+//// var a = 4;
+//// if (++a === 5)
+//// { 
+////     alert("given condition for variable a is true");
+//// }
+
+    //  alert("given condition for variable a is true because pre increment statisfied the condition");
+
+
+
+//****************     Assignment 7 *****   Task 5  part 'b' **********
+
+//// var b = 82; 
+////if (b++ === 83){ 
+////     alert("given condition for variable b is true"); 
+//// } 
+
+    //  alert("given condition for variable b is False because  the condition is not statisfied");
+
+//****************     Assignment 7 *****   Task 5  part 'c' **********
+
+//// var c = 12;
+//// if(c++ === 13){
+////     alert("condition 1 is true");
+//// }if(c === 13){
+////     alert("condition 2 is true");
+//// }if(++c < 14){
+////     alert("condition 3 is true");
+//// }if(c === 14){
+////     alert("condition 4 is true");
+//// }
+
+    //  alert("Condition 2 is true because  the post increment in condition 1  'C' will become 13");
+
+//****************     Assignment 7 *****   Task 5  part 'd' **********
+
+//// var materialCost = 20000;
+//// var laborCost = 2000; 
+//// var totalCost = materialCost + laborCost; 
+//// if (totalCost === laborCost + materialCost){
+////      alert("The cost equals"); 
+////     }
+
+    //  alert("Because Condition satisfied");
+
+
+//****************     Assignment 7 *****   Task 5  part 'e' **********
+
+//// if(true){
+////     alert("True"); 
+//// } if (false){
+////     alert("False");
+//// } 
+ 
+    //  alert("True Because by default it contain true higher possible value");
+
+//****************     Assignment 7 *****   Task 5  part 'f' **********
+
+//// if("car" > "cat"){ 
+////     alert("car is smaller than cat"); 
+//// } 
+
+    //  alert("In such if condition it check out the index value of each letter and compare them");
+
 //****************     Assignment 7 *****   Task 6 **********
+
+// var marks1=+prompt("","Enter Obtained Marks of subject 1");
+// var marks2=+prompt("","Enter Obtained Marks of subject 2");
+// var marks3=+prompt("","Enter Obtained Marks of subject 3");
+// var totalMarks=100;
+// var percenTage=((marks1+marks2+marks3)/(totalMarks*3))*100;
+// if(80<=percenTage){
+//     document.write("<h1>Marks Sheet</h1><br>Total marks: "+(totalMarks*3)+"<br>Marks obtained: "+(marks1+marks2+marks3)+"<br>Percentage: "+percenTage+"%<br>Grade: A-one <br>Remarks: Excellent")
+// }
+// else if(70<=percenTage && percenTage<80){
+//     document.write("<h1>Marks Sheet</h1><br>Total marks: "+(totalMarks*3)+"<br>Marks obtained: "+(marks1+marks2+marks3)+"<br>Percentage: "+percenTage+"%<br>Grade: A <br>Remarks: Good")
+// }
+// else if(60<=percenTage && percenTage<70){
+//     document.write("<h1>Marks Sheet</h1><br>Total marks: "+(totalMarks*3)+"<br>Marks obtained: "+(marks1+marks2+marks3)+"<br>Percentage: "+percenTage+"%<br>Grade: B <br>Remarks: You need to improve")
+// }
+// else if(60>percenTage && percenTage===0){
+//     document.write("<h1>Marks Sheet</h1><br>Total marks: "+(totalMarks*3)+"<br>Marks obtained: "+(marks1+marks2+marks3)+"<br>Percentage: "+percenTage+"%<br>Grade: Fail <br>Remarks: Sorry")
+// }
+
 //****************     Assignment 7 *****   Task 7 **********
+
+// var num=5;
+// var guest=+prompt("","Enter a number between 0-10");
+// if(guest===num){
+//     alert(" Bingo! Correct answer.");
+// }
+// else if(guest>num){
+//     alert(" Close enough but you May be come down.");
+// }
+// else if(guest<num){
+//     alert(" Close enough but you May be come up.");
+// }
+
 //****************     Assignment 7 *****   Task 8 **********
+
+// var val=+prompt("","Enter a value to check divisible by '3'");
+// if(val%3===0){
+//     alert("Yes! "+val+" is divisible by 3");
+// }
+// else{
+//     alert("No! "+val+" is not divisible by 3");
+// }
+
 //****************     Assignment 7 *****   Task 9 **********
+
+// var val=+prompt("","Enter a value to check Even or Odd");
+// if(val%2===0){
+//     alert("Yes! "+val+" is Even Number");
+// }
+// else{
+//     alert("Yes! "+val+" is Odd Number");
+// }
+
 //****************     Assignment 7 *****   Task 10 **********
+
+// var temp=+prompt("","Enter Temperature Value");
+// if(40<=temp){
+//     alert("It is too Hot outside.")
+// }
+// else if(30<=temp && temp<40){
+//     alert("The Weather today is Normal.")
+// }
+// else if(20<=temp && temp<30){
+//     alert("Today's Weather is Cool.")
+// }
+// else if(10<=temp && temp<20){
+//     alert("OMG! Today's weather is so Cool.")
+// }
+// else if(10>temp){
+//     alert("Stay Home Stay Save !")
+// }
+
 //****************     Assignment 7 *****   Task 11 **********
 
-
+// var a=+prompt("","Enter First Value");
+// var operator=prompt("","Enter Operator to Perform + - * / %")
+// var b=+prompt("","Enter Second Value");
+// if(operator === "-")
+//     {
+//         var c=a-b;
+//         document.write("Difference of "+a+" and "+b+" is "+c+".");   
+//     }
+// else if(operator === "*")
+//     {
+//         var c=a*b;
+//         document.write("Multiple of "+a+" and "+b+" is "+c+".");   
+//     }
+// else if(operator === "/")
+//     {
+//         var c=a/b;
+//         document.write("Division of "+a+" by "+b+" is "+c+".");   
+//     }
+// else if(operator === "+")
+//     {
+//         var c=a+b;
+//         document.write("Sum of "+a+" and "+b+" is "+c+".");   
+//     }
+// else if(operator === "%")
+//     {
+//         var c=b/a;
+//         document.write("Modulus of "+a+" and "+b+" is "+c*100+"% .");   
+//     }
