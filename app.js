@@ -673,9 +673,63 @@
 // }
 
 //****************     Assignment 9 *****   Task 6 **********
+
+//// not understand what question ask
+
 //****************     Assignment 9 *****   Task 7 **********
+
+// var eduLevel=["SSC","HSC","BCS","BS","BCOM","MS","M.Phil.","PhD"];
+// document.write("<h1>Qualification:</h1>");
+// for(var i=0;i<eduLevel.length;i++)
+// {
+// document.write((i+1)+")"+eduLevel[i]+"<br>");
+// }
+
 //****************     Assignment 9 *****   Task 8 **********
+
+// var stud=["Abid","Ali","Ebad"];
+// var marksObtained=[355,345,451];
+// var totalMarks=500;
+// for(var i=0;i<stud.length;i++)
+// {
+// document.write("Score of "+stud[i]+" is "+ marksObtained[i]+". Percentage: "+((marksObtained[i]/totalMarks)*100)+"%<br>");
+// }
+
 //****************     Assignment 9 *****   Task 9 **********
+
+var colors=["Red","Blue","Orange"];
+alert("Provided Colors are "+ colors);
+var conFirm=prompt("Do You want to add color in the Starting","Say Yes or No!");
+if(conFirm==="yes" || conFirm==="Yes"){
+var addstart=prompt("Enter color Name","");
+colors.unshift(addstart);
+alert("Updated Colors are "+ colors);
+}else{
+alert("No Problem! Provided Colors are "+ colors);
+}
+conFirm=prompt("Do You want to add color in the Ending","Say Yes or No!");
+if(conFirm==="yes" || conFirm==="Yes"){
+addstart=prompt("Enter color Name","");
+colors.push(addstart);
+alert("Updated Colors are "+ colors);
+}else{
+alert("No Problem! Provided Colors are "+ colors);
+}
+addstart=prompt("Enter two more colors Name","");
+colors.push(addstart);
+alert("Updated Colors are "+ colors);
+var remcolor=colors.pop(addstart);
+alert("After Removing "+remcolor+" Color, Remaining Colors are "+ colors);
+var index=prompt("Enter Position to add Color","");
+addstart=prompt("Enter Color Name","");
+// colors.push(indexof(2))
+colors.splice(index,0,addstart);
+alert("After Adding Color at "+(index)+" Position Updated list is "+colors);
+var index=prompt("Enter Position to delete Colors","");
+addstart=prompt("Enter how many Colors delete","");
+var remcolor=colors.splice(index,addstart);
+alert("After Deleting Colors "+remcolor+" from "+(index)+" to "+addstart+" Updated list is "+colors);
+
 //****************     Assignment 9 *****   Task 10 **********
 //****************     Assignment 9 *****   Task 11 **********
 //****************     Assignment 9 *****   Task 12 **********
