@@ -637,19 +637,41 @@
 
 //****************     Assignment 9 *****   Task 1 **********
 
-var studName=[];
-studName[0]="abid";
-studName[1]="sabid";
-studName.push("sajid")
-alert(studName);
-studName.pop();
-alert(studName);
-
+// var studName=[];
 
 //****************     Assignment 9 *****   Task 2 **********
+
+//// not understand what question ask
+
 //****************     Assignment 9 *****   Task 3 **********
+
+// var array=["Abid",23,"Karachi"]
+// alert(array);
+
 //****************     Assignment 9 *****   Task 4 **********
+
+// var array=[];
+//  array[0]="Abid";
+//  array[1]="Aabid";
+//  array[2]="Abbbid";
+// alert(array);
+
 //****************     Assignment 9 *****   Task 5 **********
+
+// var found="False";
+// var boolean=["Surfaraz","Afridi","Hafeez"];
+// var captain="Afridi";
+// for (var i = 0; i < 3; i++)
+// {
+//     if (captain === boolean[i]){
+//         found = "True"; 
+//         alert("Your Captain is Afridi");
+//      } 
+//      if (captain === "False") {
+//          alert("Your Captain isn't Afridi");
+//      }
+// }
+
 //****************     Assignment 9 *****   Task 6 **********
 //****************     Assignment 9 *****   Task 7 **********
 //****************     Assignment 9 *****   Task 8 **********
