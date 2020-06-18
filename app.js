@@ -295,8 +295,6 @@
 //         document.write("<br>"+taBle+" * "+i+" = "+(i*taBle));
 
 //     }
-//     var b=9;
-//     console.log(b);
 // }
 // if(taBle==="null")
 // {   
@@ -306,10 +304,8 @@
 //     {
 //         document.write("<br>"+a+" * "+i+" = "+(i*a));
 //     }
-//     var a=5;
-//     console.log(a);
 // }
-
+        ////question hum khali prompt ko condition me kesy use kren.
 //****************     Assignment 6 *****   Task 6 **********
 
 // var sub1=prompt("","Enter Name Subject 1");
@@ -554,3 +550,113 @@
 //         var c=b/a;
 //         document.write("Modulus of "+a+" and "+b+" is "+c*100+"% .");   
 //     }
+
+//****************     Assignment 8 *****   Task 1 **********
+
+// var char=prompt("","Enter a Charater");
+//  var convert=char.charCodeAt();
+// // alert(convert);
+// if(65<=convert && convert<=90){
+//     alert("Input '"+char+"' is in Upper Case Letter which ASCII Code is "+convert);
+// }else if(97<=convert && convert<=122){
+//     alert("Input '"+char+"' is in Lower Case Letter which ASCII Code is "+convert);
+// }else{
+//     alert("Input '"+char+"' is a Special Key which ASCII Code is "+convert);
+// }
+
+//****************     Assignment 8 *****   Task 2 **********
+// var val1=+prompt("","Enter 1st Value");
+// var val2=+prompt("","Enter 2nd Value");
+// if(val1===val2){
+//     alert("1st Value="+val1+" and 2nd Value="+val2+" both are equal");
+// }
+// else if(val1<val2){
+//     alert("1st Value="+val1+" is less than 2nd Value="+val2);
+// }
+// else if(val1>val2){
+//     alert("1st Value="+val1+" is greater than 2nd Value="+val2);
+// }
+
+//****************     Assignment 8 *****   Task 3 **********
+
+// var value=+prompt("","Enter a Value");
+// if(value===0){
+//     alert("Provided Value Equal to "+value);
+// }else if(value>0){
+//     alert("Provided Value is Positive Number i.e "+value);
+// }else if(value<0){
+//     alert("Provided Value is Negative Number i.e "+value);
+// }
+
+//****************     Assignment 8 *****   Task 4 **********
+
+//// a=97 A=65 E=69 e=101 i=105 I=73 O=79 o=111 u=117 U=85
+// var char=prompt("","Enter an Alphabet");
+// var convert=char.charCodeAt()
+// if(convert===97 || convert===65 || convert===69 || convert===101 || convert===105 || convert===73 || convert===79 || convert===111 || convert===117|| convert===85){
+//     alert("Vowel! True");
+// }else{
+//     alert("Consonent! False")
+// }
+
+//****************     Assignment 8 *****   Task 5 **********
+
+// var passWord=prompt("Enter Your Password","");
+// var repassWord=prompt("Enter Your Password to Confirm","");
+// console.log(repassWord);
+// if(passWord===repassWord){
+//     alert("Correct! The Password you entered the original password");
+// }else if(passWord!==repassWord){
+//     console.log(repassWord);
+//     alert("Incorrect password!");
+// }
+///         question hum khali prompt ko kis trha condition me use kr sakten hen?
+//****************     Assignment 8 *****   Task 6 **********
+
+// var greeting;
+// var hour = 13; 
+// if (hour < 18){
+//     greeting = "Good day";
+//     alert(greeting);
+// } 
+// else{
+//     greeting = "Good evening"; 
+//     alert(greeting);
+// }
+
+//****************     Assignment 8 *****   Task 7 **********
+
+// var hours=prompt("Enter Time in 24 standard","");
+// if(11.59>=hours){
+//     alert("Input "+hours+" = "+ hours+" a.m");
+// }else if(23.59>=hours){
+//     alert("Input "+hours+" = "+ (hours-12)+" p.m");
+// }else{
+//     alert("Invalid Time ");
+// }
+
+//****************     Assignment 9 *****   Task 1 **********
+
+var studName=[];
+studName[0]="abid";
+studName[1]="sabid";
+studName.push("sajid")
+alert(studName);
+studName.pop();
+alert(studName);
+
+
+//****************     Assignment 9 *****   Task 2 **********
+//****************     Assignment 9 *****   Task 3 **********
+//****************     Assignment 9 *****   Task 4 **********
+//****************     Assignment 9 *****   Task 5 **********
+//****************     Assignment 9 *****   Task 6 **********
+//****************     Assignment 9 *****   Task 7 **********
+//****************     Assignment 9 *****   Task 8 **********
+//****************     Assignment 9 *****   Task 9 **********
+//****************     Assignment 9 *****   Task 10 **********
+//****************     Assignment 9 *****   Task 11 **********
+//****************     Assignment 9 *****   Task 12 **********
+//****************     Assignment 9 *****   Task 13 **********
+//****************     Assignment 9 *****   Task 14 **********
+//****************     Assignment 9 *****   Task 15 **********
