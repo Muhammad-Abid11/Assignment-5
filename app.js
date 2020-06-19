@@ -762,5 +762,9 @@
 //****************     Assignment 9 *****   Task 14 **********
 //****************     Assignment 9 *****   Task 15 **********
 
-var phoneBrand=["Apple","Samsung","Motorola","Nokia","Sony","Haier"];
-document.write("<select>")
+// var phoneBrand=["Apple","Samsung","Motorola","Nokia","Sony","Haier"];
+// document.write("<select>")
+// for(var i=0; i<phoneBrand.length; i++){
+//     document.write("<option>"+phoneBrand[i]+"</option>");
+// }
+// document.write("</select>")
