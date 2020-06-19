@@ -697,42 +697,70 @@
 
 //****************     Assignment 9 *****   Task 9 **********
 
-var colors=["Red","Blue","Orange"];
-alert("Provided Colors are "+ colors);
-var conFirm=prompt("Do You want to add color in the Starting","Say Yes or No!");
-if(conFirm==="yes" || conFirm==="Yes"){
-var addstart=prompt("Enter color Name","");
-colors.unshift(addstart);
-alert("Updated Colors are "+ colors);
-}else{
-alert("No Problem! Provided Colors are "+ colors);
-}
-conFirm=prompt("Do You want to add color in the Ending","Say Yes or No!");
-if(conFirm==="yes" || conFirm==="Yes"){
-addstart=prompt("Enter color Name","");
-colors.push(addstart);
-alert("Updated Colors are "+ colors);
-}else{
-alert("No Problem! Provided Colors are "+ colors);
-}
-addstart=prompt("Enter two more colors Name","");
-colors.push(addstart);
-alert("Updated Colors are "+ colors);
-var remcolor=colors.pop(addstart);
-alert("After Removing "+remcolor+" Color, Remaining Colors are "+ colors);
-var index=prompt("Enter Position to add Color","");
-addstart=prompt("Enter Color Name","");
-// colors.push(indexof(2))
-colors.splice(index,0,addstart);
-alert("After Adding Color at "+(index)+" Position Updated list is "+colors);
-var index=prompt("Enter Position to delete Colors","");
-addstart=prompt("Enter how many Colors delete","");
-var remcolor=colors.splice(index,addstart);
-alert("After Deleting Colors "+remcolor+" from "+(index)+" to "+addstart+" Updated list is "+colors);
+// var colors=["Red","Blue","Orange"];
+// alert("Provided Colors are "+ colors);
+// var conFirm=prompt("Do You want to add color in the Starting","Say Yes or No!");
+// if(conFirm==="yes" || conFirm==="Yes"){
+// var addstart=prompt("Enter color Name","");
+// colors.unshift(addstart);
+// alert("Updated Colors are "+ colors);
+// }else{
+// alert("No Problem! Provided Colors are "+ colors);
+// }
+// conFirm=prompt("Do You want to add color in the Ending","Say Yes or No!");
+// if(conFirm==="yes" || conFirm==="Yes"){
+// addstart=prompt("Enter color Name","");
+// colors.push(addstart);
+// alert("Updated Colors are "+ colors);
+// }else{
+// alert("No Problem! Provided Colors are "+ colors);
+// }
+// addstart=prompt("Enter two more colors Name","");
+// colors.push(addstart);
+// alert("Updated Colors are "+ colors);
+// var remcolor=colors.pop(colors);
+// alert("After Removing "+remcolor+" Color, Remaining Colors are "+ colors);
+// var index=prompt("Enter Position to add Color","");
+// addstart=prompt("Enter Color Name","");
+// // colors.push(indexof(2))
+// colors.splice(index,0,addstart);
+// alert("After Adding Color at "+(index)+" Position Updated list is "+colors);
+// var index=prompt("Enter Position to delete Colors","");
+// addstart=prompt("Enter how many Colors delete","");
+// var remcolor=colors.splice(index,addstart);
+// alert("After Deleting Colors "+remcolor+" from "+(index)+" to "+addstart+" Updated list is "+colors);
 
 //****************     Assignment 9 *****   Task 10 **********
+
+//// not understand how to solve it.
+
 //****************     Assignment 9 *****   Task 11 **********
+
+// var cities=["Karachi","Lahore","Islamabad","Quetta","Peshawar"];
+// alert(cities);
+// document.write("Cities List<br>"+cities+"<br>");
+// var index=prompt("Enter Position to Copy Start.","");
+// var copiesNum=prompt("Enter how many Copies.","");
+// var copyCities=cities.slice((index-1),copiesNum);   //slice(inclusive,exclusive)
+// // console.log(copyCities);
+// // alert(copyCities);
+// document.write("<br>Selected Cities List<br>"+copyCities);
+
 //****************     Assignment 9 *****   Task 12 **********
+
+// var arr = [" This "," is "," my "," cat "];
+// document.write("Array:<br>"+arr+"<br>");
+// console.log(arr);
+// arr.toString();
+// document.write("<br>String:<br>"+arr);
+// console.log(arr);
+
 //****************     Assignment 9 *****   Task 13 **********
+
+
+
 //****************     Assignment 9 *****   Task 14 **********
 //****************     Assignment 9 *****   Task 15 **********
+
+var phoneBrand=["Apple","Samsung","Motorola","Nokia","Sony","Haier"];
+document.write("<select>")
