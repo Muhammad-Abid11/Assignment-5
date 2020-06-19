@@ -757,9 +757,40 @@
 
 //****************     Assignment 9 *****   Task 13 **********
 
-
+// var gadgets=["Keyboard","Mouse","Printer","Monitor"];
+// alert("Provided Gadgets are "+ gadgets);
+// document.write("<h1>First In First Out (FIFO)</h1><br>Provided Gadgets are "+ gadgets+"<br>");
+// gadgets.shift();
+// alert("Updated Gadgets are "+ gadgets);
+// document.write("<br>Provided Gadgets are "+ gadgets+"<br>");
+// gadgets.shift();
+// alert("Updated Gadgets are "+ gadgets);
+// document.write("<br>Provided Gadgets are "+ gadgets+"<br>");
+// gadgets.shift();
+// alert("Updated Gadgets are "+ gadgets);
+// document.write("<br>Provided Gadgets are "+ gadgets+"<br>");
+// gadgets.shift();
+// alert("Updated Gadgets are "+ gadgets);
+// document.write("<br>Provided Gadgets are Empty"+ gadgets+"<br>");
 
 //****************     Assignment 9 *****   Task 14 **********
+
+// var gadgets=["Keyboard","Mouse","Printer","Monitor"];
+// alert("Provided Gadgets are "+ gadgets);
+// document.write("<h1>Last In First Out (FIFO)</h1><br>Provided Gadgets are "+ gadgets+"<br>");
+// gadgets.pop();
+// alert("Updated Gadgets are "+ gadgets);
+// document.write("<br>Provided Gadgets are "+ gadgets+"<br>");
+// gadgets.pop();
+// alert("Updated Gadgets are "+ gadgets);
+// document.write("<br>Provided Gadgets are "+ gadgets+"<br>");
+// gadgets.pop();
+// alert("Updated Gadgets are "+ gadgets);
+// document.write("<br>Provided Gadgets are "+ gadgets+"<br>");
+// gadgets.pop();
+// alert("Updated Gadgets are "+ gadgets);
+// document.write("<br>Provided Gadgets are Empty"+ gadgets+"<br>");
+
 //****************     Assignment 9 *****   Task 15 **********
 
 // var phoneBrand=["Apple","Samsung","Motorola","Nokia","Sony","Haier"];
