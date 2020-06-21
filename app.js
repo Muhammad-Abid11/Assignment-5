@@ -819,10 +819,105 @@
         // }
 // }
 //****************     Assignment 10 *****   Task 3 **Chapter 17-20 **********
+
+// for(var i=1; i<=10; i++){
+//     document.write(i+"<br>");
+// }
+
 //****************     Assignment 10 *****   Task 4 **Chapter 17-20 **********
+
+// var taBle=prompt("Enter Value to Generate Table","");
+// var lenGth=prompt("Enter Length of the Table","");
+// document.write("Table of "+taBle+"<br>Length "+lenGth+"<br>");
+// for(i=1;i<=lenGth;i++)
+//     {
+//         document.write("<br>"+taBle+" * "+i+" = "+(i*taBle));
+
+//     }
+
 //****************     Assignment 10 *****   Task 5 **Chapter 17-20 **********
+
+// var fruits = ["apple", "banana", "mango", "orange", "strawberry"];
+// for(var i=0;i<fruits.length;i++){
+//     document.write(fruits[i]+"<br>");
+// }
+// for(var i=0;i<fruits.length;i++){
+//     document.write("<br>Element at index "+i+" is "+fruits[i]);
+// }
+
 // ****************     Assignment 10 *****   Task 6 **Chapter 17-20 **********
+
+// document.write("<br>Counting:<br><br>");
+// for(var i=0;i<=10;i++){
+//     document.write(i+"<br>");
+// }
+// document.write("<br>Reverse Counting: <br><br>");
+// for(var i=10;i>=0;i--){
+//     document.write(i+"<br>");
+// }
+// document.write("<br>Even:<br><br>");
+// for(var i=0;i<=20;i+=2){
+//     document.write(i+"<br>");
+// }
+// document.write("<br>Odd:<br><br>");
+// for(var i=1;i<=20;i+=2){
+//     document.write(i+"<br>");
+// }
+// document.write("<br>Series:<br><br>");
+// for(var i=2;i<=20;i+=2){
+//     document.write(i+"k<br>");
+// }
+
 // ****************     Assignment 10 *****   Task 7 **Chapter 17-20 **********
+
+// var A=["cake", "apple pie", "cookie", "chips", "patties"] 
+// var check=prompt("Welcome to ABC Bakery. What do you want to order sir/ma'am?","");
+// if(A.indexOf(check) !==-1){
+//     alert("Yes! Is available in our bakery"); 
+// }else{
+//     alert("We are sorry! is not available in our bakery");
+
+// }
+
 // ****************     Assignment 10 *****   Task 8 **Chapter 17-20 **********
+
+// var A=[24, 53, 78, 91,77,100,12,10101,34];
+// document.write("Array items: "+A+"<br>");
+// b=A.length;
+// // document.write(b);
+// var temp=[];
+// for(var i=0;i<A.length;i++){
+//     if(A[i]>A[i+1]){
+//          temp[i]=A[i];
+//         A[i]=A[i+1];
+//         A[i+1]=temp[i];
+//     }
+// }
+// document.write("Array After sourt items: "+A+"<br>");
+// document.write("The Largest number is "+A[b-1]);
+
 // ****************     Assignment 10 *****   Task 9 **Chapter 17-20 **********
+
+// var A=[24, 78, 91, 12,77,100,10101,34];
+// document.write("Array items: "+A+"<br>");
+// b=A.length;
+// // document.write(b);
+// var temp=[];
+// for(var i=0;i<A.length;i++){
+//     if(A[i]<A[i+1]){
+//          temp[i]=A[i];
+//         A[i]=A[i+1];
+//         A[i+1]=temp[i];
+//     }
+// }
+// document.write("Array after sourt items: "+A+"<br>");
+// document.write("The Largest number is "+A[b-1]);
+
 // ****************     Assignment 10 *****   Task 10 **Chapter 17-20 **********
+
+var taBle=prompt("Enter Value to Generate Multiple of it","");
+for(i=1;(i*taBle)<=100;i++)
+    {
+        document.write(i*taBle+" , ");
+
+    }
