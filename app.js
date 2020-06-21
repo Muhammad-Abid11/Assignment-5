@@ -799,3 +799,30 @@
 //     document.write("<option>"+phoneBrand[i]+"</option>");
 // }
 // document.write("</select>")
+
+//****************     Assignment 10 *****   Task 1 **Chapter 17-20 **********
+
+// var columns=[0,1,2,3];
+// var rows=[0,1,2];
+
+//****************     Assignment 10 *****   Task 2 **Chapter 17-20 **********
+
+// var columns=[0,1,2,3];
+// var rows=[0,1,2];
+// // alert(columns)
+// for(var i=0;i<rows.length;i++) 
+// {
+        // for(var j=i;j<columns.length;j++)
+        // {
+        // // alert(columns)
+        // document.write("<br>"+columns);
+        // }
+// }
+//****************     Assignment 10 *****   Task 3 **Chapter 17-20 **********
+//****************     Assignment 10 *****   Task 4 **Chapter 17-20 **********
+//****************     Assignment 10 *****   Task 5 **Chapter 17-20 **********
+// ****************     Assignment 10 *****   Task 6 **Chapter 17-20 **********
+// ****************     Assignment 10 *****   Task 7 **Chapter 17-20 **********
+// ****************     Assignment 10 *****   Task 8 **Chapter 17-20 **********
+// ****************     Assignment 10 *****   Task 9 **Chapter 17-20 **********
+// ****************     Assignment 10 *****   Task 10 **Chapter 17-20 **********
