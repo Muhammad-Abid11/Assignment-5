@@ -1,43 +1,43 @@
-//****************     Assignment 1 *****   Task 1 **********
+//********Chapter 1**  Assignment 1 *****   Task 1 **********
 
 //alert("Welcome to My Web Site");  
 
-//****************     Assignment 1 *****   Task 2 **********
+//********Chapter 1**   Assignment 1 *****   Task 2 **********
 
 // alert("Error! Please Enter a valid password");
 
-//****************     Assignment 1 *****   Task 3 **********
+//********Chapter 1**   Assignment 1 *****   Task 3 **********
 
 // alert("Welcome to JS Land \n Happy Coding!");  
 
-//****************     Assignment 1 *****   Task 4 **********
+//********Chapter 1**   Assignment 1 *****   Task 4 **********
 
 // alert("Welcome to JS Land");
 // alert("Happy Coding");
 
-//****************     Assignment 1 *****   Task 5 **********
+//********Chapter 1**   Assignment 1 *****   Task 5 **********
 
 // alert("Hello.. I Can run Js through my browser's console"); // this is also done in chrome developer mode
 
 
 
-//****************     Assignment 2 *****   Task 1 **********
+//********Chapter 2**   Assignment 2 *****   Task 1 **********
 
 // var UserName="Abid";
 // alert(UserName);
 
 
-//****************     Assignment 2 *****   Task 2 **********
+//********Chapter 2**   Assignment 2 *****   Task 2 **********
 
 // var myName="Muhammad Abid";
 // alert(myName);
 
-//****************     Assignment 2 *****   Task 3 **********
+//********Chapter 2**  Assignment 2 *****   Task 3 **********
 
 // var message="Hello World";
 // alert(message);
 
-//****************     Assignment 2 *****   Task 4 **********
+//********Chapter 2**  Assignment 2 *****   Task 4 **********
 
 // var studentBio1=prompt("","Enter Your Name");
 // var studentBio2=prompt("","Enter Your Age");
@@ -46,45 +46,45 @@
 // alert(studentBio2 + " years old");
 // alert(studentBio3);
 
-//****************     Assignment 2 *****   Task 5 **********
+//********Chapter 2**     Assignment 2 *****   Task 5 **********
 
 // var a="PIZZA\nPIZZ\nPIZ\nPI\nP";
 // alert(a);
 
-//****************     Assignment 2 *****   Task 6 **********
+//********Chapter 2**  Assignment 2 *****   Task 6 **********
 
 // var email="abidkhan11845@gmail.com";
 // alert("My email address is " + email);
 
-//****************     Assignment 2 *****   Task 7 **********
+//********Chapter 2**   Assignment 2 *****   Task 7 **********
 
 // var book="A smarter way to Learn JavaScript";
 // alert("I am  trying to Learn from the Book "+book);
 
-//****************     Assignment 2 *****   Task 8 **********
+//********Chapter 2**  Assignment 2 *****   Task 8 **********
 
 // document.write("Yah! I can write HTML content through JavaScript");
 
-//****************     Assignment 2 *****   Task 9 **********
+//********Chapter 2**  Assignment 2 *****   Task 9 **********
 
 // var a="▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
 // alert(a);
 
-//****************     Assignment 3 *****   Task 1 **********
+//********Chapter 3**  Assignment 3 *****   Task 1 **********
 
 // var age=19;
 // alert("I am "+age+" years old");
 
-//****************     Assignment 3 *****   Task 2 **********
+//********Chapter 3**    Assignment 3 *****   Task 2 **********
 
 //Don't Know how tp solve
 
-//****************     Assignment 3 *****   Task 3 **********
+//********Chapter 3**   Assignment 3 *****   Task 3 **********
 
 // var birthYear=1998;
 // alert("My birth year is "+birthYear+"\n Data type of my declared variable is number");
 
-//****************     Assignment 3 *****   Task 4 **********
+//********Chapter 3**     Assignment 3 *****   Task 4 **********
 
 // var visitorName=prompt("","Enter Your Name");
 // var productTitle=prompt("","Enter Product Name");
@@ -93,14 +93,14 @@
                                 /////////// document.write(visitorName+" ordered"+quanTity+" "+productTitle"(s) on Daraz Store");  // here mistake is after producttitle "+"  sign not present
 
 
-//****************     Assignment 4 *****   Task 1 **********
+//********Chapter 4**  Assignment 4 *****   Task 1 **********
 
 // var a=b=c="Null";
 // alert(a);
 // alert(b);
 // alert(c);
 
-//****************     Assignment 4 *****   Task 2 **********
+//********Chapter 4**   Assignment 4 *****   Task 2 **********
 
 // var a=null,b=null,c=null,d=null,e;
 // // var a=b=c=d=e=null;
@@ -112,11 +112,11 @@
 // var null,alert,Nan,var,1,2,3; ////illegal variables
 
 
-//****************     Assignment 4 *****   Task 3 **********
+//********Chapter 4**  Assignment 4 *****   Task 3 **********
 
 // document.write("<h1>Rules for naming JS variables</h1><br>Variable names can only contain number , $ and ______. For example : $my_1stVariable <br> Variables must begin with a letters , $ or _____. For example $name, _name or name <br> Variable names are case sensitive <br> Variable names should not be JS keywords");
 
-//****************     Assignment 5 *****   Task 1 **********
+//********Chapter 5**   Assignment 5 *****   Task 1 **********
 
 // var a=+prompt("","Enter First Value");
 // var b=+prompt("","Enter Second Value");
@@ -124,7 +124,7 @@
 // document.write("Sum of "+a+" and "+b+" is "+c+".");
 
 
-//****************     Assignment 5 *****   Task 2 **********
+//********Chapter 5**     Assignment 5 *****   Task 2 **********
 
 // var a=+prompt("","Enter First Value");
 // var operator=prompt("","Enter Operator to Perform")
@@ -155,7 +155,7 @@
 //         document.write("Modulus of "+a+" and "+b+" is "+c*100+"% .");   
 //     }
 
-//****************     Assignment 5 *****   Task 3 **********
+//********Chapter 5**   Assignment 5 *****   Task 3 **********
 
 // var a;
 // document.write("Value after variable declaration is : "+a);
@@ -170,13 +170,13 @@
 // a=a/3;
 // document.write("<br>The remainder is : "+a)
 
-//****************     Assignment 5 *****   Task 4 **********
+//********Chapter 5**  Assignment 5 *****   Task 4 **********
 
 // var ticketPrice=600;
 // var buy=prompt("","Enter Quantity of Tickets");
 // document.write("Total cost to buy "+buy+" tickets to a movie is "+(ticketPrice*buy)+"PKR")
 
-//****************     Assignment 5 *****   Task 5 **********
+//********Chapter 5**  Assignment 5 *****   Task 5 **********
 
 // var taBle=prompt("","Enter Value to Generate Table");
 // document.write("Table of "+taBle);
@@ -186,7 +186,7 @@
 
 //     }
 
-//****************     Assignment 5 *****   Task 6 **********
+//********Chapter 5**  Assignment 5 *****   Task 6 **********
 
 // var celTemp=prompt("","Enter Celsius Temperature");
 // var fahTemp=prompt("","Enter Fahrenheit Temperature");
@@ -195,7 +195,7 @@
 // document.write(celTemp+"*C is "+fahconv+"*F<br>");
 // document.write(fahTemp+"*F is "+celconv+"*C");
 
-//****************     Assignment 5 *****   Task 7 **********
+//********Chapter 5**  Assignment 5 *****   Task 7 **********
 
 // var priceItem1=prompt("","Price of item 1");
 // var quanItem1=prompt("","Quantity of item 1");
@@ -206,14 +206,14 @@
 // var cost=(priceItem1*quanItem1)+(priceItem2*quanItem2)+100;
 // document.write("<br>Total cost of your order is "+cost);
 
-//****************     Assignment 5 *****   Task 8 **********
+//********Chapter 5**  Assignment 5 *****   Task 8 **********
 
 // var sub1=+prompt("","Enter Obained Marks Subject 1");
 // var sub2=+prompt("","Enter Obained Marks Subject 2");
 // totalMarks=980;
 // document.write("Total marks: "+totalMarks+"<br>Marks obtained: "+(sub1+sub2)+"<br>Percentage:"+((sub1+sub2)/totalMarks)*100+"%");
 
-//****************     Assignment 5 *****   Task 9 **********
+//********Chapter 5**  Assignment 5 *****   Task 9 **********
 
 // var dollar=+prompt("","Enter Quantity of Dollar");
 // var saudi=+prompt("","Enter Quantity of saudi");
@@ -222,7 +222,7 @@
 // ////////        oR
 // document.write("<br>Total Currency in PKR: "+((104.80*10)+(25*28)))
 
-//****************     Assignment 5 *****   Task 10 **********
+//********Chapter 5**  Assignment 5 *****   Task 10 **********
 
 // var val1=+prompt("","Enter 1st value");
 // val1=val1+5;
@@ -237,18 +237,18 @@
 // var val1=+prompt("","Enter 1st value");
 // document.write("After Adding 5 is "+(val1+5)+"<br>After Multiplying by 10 is "+((val1+5)*10)+"<br>After Dividing by 2 is "+((val1+5)*10)/2);
 
-//****************     Assignment 5 *****   Task 11 **********
+//********Chapter 5**  Assignment 5 *****   Task 11 **********
 
 // var currentYear=prompt("","Enter Current Year! ");
 // var birthYear=prompt("","Enter Birth Year! ");
 // document.write("Current Year: "+currentYear+"<br>Birth Year: "+birthYear+"<br>Your Age is: "+(currentYear-birthYear));
 
-//****************     Assignment 5 *****   Task 12 **********
+//********Chapter 5**  Assignment 5 *****   Task 12 **********
 
 // var raDius=prompt("","Enter value of Radius");
 // document.write("<h1>The Geometrizer</h1>Radius of a circle: "+raDius+"<br>The circumference is: "+(raDius*2*3.142)+"<br>The area is: "+(raDius*raDius*3.142));
 
-//****************     Assignment 5 *****   Task 13 **********
+//********Chapter 5**  Assignment 5 *****   Task 13 **********
 
 // var favSnack=prompt("","Your Favourite Snack! ");
 // var currAge=prompt("","Your Current Age ");
@@ -256,12 +256,12 @@
 // var perDaySnack=prompt("","Eat Per day Snacks ");
 // document.write("<h1>The Lifetime Supply Calculator</h1>Favourite Snack: "+favSnack+"<br>Current Age"+currAge+"<br>Estimated Maximum Age: "+maxAge+"<br>Amount of snacks per day: "+perDaySnack+"<br>You will need "+(maxAge-currAge)*perDaySnack+" chocolate chip to last you until the ripe old age of 65");
 
-//****************     Assignment 6 *****   Task 1 **********
+//********Chapter 6-9**  Assignment 6 *****   Task 1 **********
 
 // var val1=prompt("","Enter Value of 'a'")
 // document.write("Result:<br>The value of 'a' is: "+val1+"<br>...................<br><br>The value of ++a is: "+(++val1)+"<br>Now the value of 'a' is: "+val1+"<br><br>The value of a++ is: "+(val1++)+"<br>Now the value of 'a' is: "+val1+"<br><br>The value of --a is: "+(--val1)+"<br>Now the value of 'a' is: "+val1+"<br><br>The value of a-- is: "+(val1--)+"<br>Now the value of 'a' is: "+val1);
 
-//****************     Assignment 6 *****   Task 2 **********
+//********Chapter 6-9**  Assignment 6 *****   Task 2 **********
 
 // var a=2,b=1;
 // // var result=--a - --b + ++b + b--;
@@ -275,16 +275,16 @@
 // result=a+b+b;
 //  document.write("<br>result is "+result);
 
-//****************     Assignment 6 *****   Task 3 **********
+//********Chapter 6-9**  Assignment 6 *****   Task 3 **********
 
 // var name=prompt("","Enter Your Name");
 // alert("Welcome "+name);
 
-//****************     Assignment 6 *****   Task 4 **********
+//********Chapter 6-9**  Assignment 6 *****   Task 4 **********
 
                 //////      Not Mention
 
-//****************     Assignment 6 *****   Task 5 **********
+//********Chapter 6-9**  Assignment 6 *****   Task 5 **********
 
 // var taBle=prompt("","null");
 // if(taBle!=="null")
@@ -306,7 +306,7 @@
 //     }
 // }
         ////question hum khali prompt ko condition me kesy use kren.
-//****************     Assignment 6 *****   Task 6 **********
+//********Chapter 6-9**  Assignment 6 *****   Task 6 **********
 
 // var sub1=prompt("","Enter Name Subject 1");
 // var marks1=prompt("","Enter Obtained Marks of subject 1");
@@ -317,7 +317,7 @@
 // var totalMarks=100;
 // document.write("Subject Total Marks Obtained Marks Percentage <br>"+sub1+totalMarks+" "+" "+" "+marks1+" "+" "+((marks1/totalMarks)*100)+"%"+"<br>"+sub2+totalMarks+" "+" "+" "+marks2+" "+" "+((marks2/totalMarks)*100)+"%"+"<br>"+sub3+totalMarks+" "+" "+" "+marks3+" "+" "+((marks3/totalMarks)*100)+"%");
 
-//****************     Assignment 7 *****   Task 1 **********
+//********Chapter 9-11**     Assignment 7 *****   Task 1 **********
 
 // var city=prompt("","Enter City Name ");
 // if(city==="Karachi" || city==="karachi")
@@ -336,7 +336,7 @@
 // {
 //     document.write("Welcome to City of Gladiators");
 // }
-//****************     Assignment 7 *****   Task 2 **********
+//********Chapter 9-11**     Assignment 7 *****   Task 2 **********
 
 // var gender=prompt("","Enter Gender ");
 // if(gender==="Male" || gender==="male")
@@ -353,7 +353,7 @@
 // }
 
 
-//****************     Assignment 7 *****   Task 3 **********
+//********Chapter 9-11**     Assignment 7 *****   Task 3 **********
 
 // var color=prompt("","Enter Color ");
 // if(color==="red" || color==="Red")
@@ -372,7 +372,7 @@
 // {
 //     document.write("Invalid color!");
 // }
-//****************     Assignment 7 *****   Task 4 **********
+//********Chapter 9-11**     Assignment 7 *****   Task 4 **********
 
 // var fuel=prompt("","Enter Remaining Fuel");
 // if(fuel<0.25){
@@ -381,7 +381,7 @@
 //     alert("Keep Driving!");
 // }
 
-//****************     Assignment 7 *****   Task 5  part 'a' **********
+//********Chapter 9-11**     Assignment 7 *****   Task 5  part 'a' **********
 
 //// var a = 4;
 //// if (++a === 5)
@@ -393,7 +393,7 @@
 
 
 
-//****************     Assignment 7 *****   Task 5  part 'b' **********
+//********Chapter 9-11**     Assignment 7 *****   Task 5  part 'b' **********
 
 //// var b = 82; 
 ////if (b++ === 83){ 
@@ -402,7 +402,7 @@
 
     //  alert("given condition for variable b is False because  the condition is not statisfied");
 
-//****************     Assignment 7 *****   Task 5  part 'c' **********
+//********Chapter 9-11**     Assignment 7 *****   Task 5  part 'c' **********
 
 //// var c = 12;
 //// if(c++ === 13){
@@ -417,7 +417,7 @@
 
     //  alert("Condition 2 is true because  the post increment in condition 1  'C' will become 13");
 
-//****************     Assignment 7 *****   Task 5  part 'd' **********
+//********Chapter 9-11**     Assignment 7 *****   Task 5  part 'd' **********
 
 //// var materialCost = 20000;
 //// var laborCost = 2000; 
@@ -429,7 +429,7 @@
     //  alert("Because Condition satisfied");
 
 
-//****************     Assignment 7 *****   Task 5  part 'e' **********
+//********Chapter 9-11**     Assignment 7 *****   Task 5  part 'e' **********
 
 //// if(true){
 ////     alert("True"); 
@@ -439,7 +439,7 @@
  
     //  alert("True Because by default it contain true higher possible value");
 
-//****************     Assignment 7 *****   Task 5  part 'f' **********
+//********Chapter 9-11**     Assignment 7 *****   Task 5  part 'f' **********
 
 //// if("car" > "cat"){ 
 ////     alert("car is smaller than cat"); 
@@ -447,7 +447,7 @@
 
     //  alert("In such if condition it check out the index value of each letter and compare them");
 
-//****************     Assignment 7 *****   Task 6 **********
+//********Chapter 9-11**     Assignment 7 *****   Task 6 **********
 
 // var marks1=+prompt("","Enter Obtained Marks of subject 1");
 // var marks2=+prompt("","Enter Obtained Marks of subject 2");
@@ -467,7 +467,7 @@
 //     document.write("<h1>Marks Sheet</h1><br>Total marks: "+(totalMarks*3)+"<br>Marks obtained: "+(marks1+marks2+marks3)+"<br>Percentage: "+percenTage+"%<br>Grade: Fail <br>Remarks: Sorry")
 // }
 
-//****************     Assignment 7 *****   Task 7 **********
+//********Chapter 9-11**     Assignment 7 *****   Task 7 **********
 
 // var num=5;
 // var guest=+prompt("","Enter a number between 0-10");
@@ -481,7 +481,7 @@
 //     alert(" Close enough but you May be come up.");
 // }
 
-//****************     Assignment 7 *****   Task 8 **********
+//********Chapter 9-11**     Assignment 7 *****   Task 8 **********
 
 // var val=+prompt("","Enter a value to check divisible by '3'");
 // if(val%3===0){
@@ -491,7 +491,7 @@
 //     alert("No! "+val+" is not divisible by 3");
 // }
 
-//****************     Assignment 7 *****   Task 9 **********
+//********Chapter 9-11**     Assignment 7 *****   Task 9 **********
 
 // var val=+prompt("","Enter a value to check Even or Odd");
 // if(val%2===0){
@@ -501,7 +501,7 @@
 //     alert("Yes! "+val+" is Odd Number");
 // }
 
-//****************     Assignment 7 *****   Task 10 **********
+//********Chapter 9-11**     Assignment 7 *****   Task 10 **********
 
 // var temp=+prompt("","Enter Temperature Value");
 // if(40<=temp){
@@ -520,7 +520,7 @@
 //     alert("Stay Home Stay Save !")
 // }
 
-//****************     Assignment 7 *****   Task 11 **********
+//********Chapter 9-11**     Assignment 7 *****   Task 11 **********
 
 // var a=+prompt("","Enter First Value");
 // var operator=prompt("","Enter Operator to Perform + - * / %")
@@ -551,7 +551,7 @@
 //         document.write("Modulus of "+a+" and "+b+" is "+c*100+"% .");   
 //     }
 
-//****************     Assignment 8 *****   Task 1 **********
+//********Chapter 12-13**     Assignment 8 *****   Task 1 **********
 
 // var char=prompt("","Enter a Charater");
 //  var convert=char.charCodeAt();
@@ -564,7 +564,9 @@
 //     alert("Input '"+char+"' is a Special Key which ASCII Code is "+convert);
 // }
 
-//****************     Assignment 8 *****   Task 2 **********
+//********Chapter 12-13**    Assignment 8 *****   Task 2 **********
+
+
 // var val1=+prompt("","Enter 1st Value");
 // var val2=+prompt("","Enter 2nd Value");
 // if(val1===val2){
@@ -577,7 +579,7 @@
 //     alert("1st Value="+val1+" is greater than 2nd Value="+val2);
 // }
 
-//****************     Assignment 8 *****   Task 3 **********
+//********Chapter 12-13**     Assignment 8 *****   Task 3 **********
 
 // var value=+prompt("","Enter a Value");
 // if(value===0){
@@ -588,7 +590,7 @@
 //     alert("Provided Value is Negative Number i.e "+value);
 // }
 
-//****************     Assignment 8 *****   Task 4 **********
+//********Chapter 12-13**     Assignment 8 *****   Task 4 **********
 
 //// a=97 A=65 E=69 e=101 i=105 I=73 O=79 o=111 u=117 U=85
 // var char=prompt("","Enter an Alphabet");
@@ -599,7 +601,7 @@
 //     alert("Consonent! False")
 // }
 
-//****************     Assignment 8 *****   Task 5 **********
+//********Chapter 12-13**     Assignment 8 *****   Task 5 **********
 
 // var passWord=prompt("Enter Your Password","");
 // var repassWord=prompt("Enter Your Password to Confirm","");
@@ -611,7 +613,9 @@
 //     alert("Incorrect password!");
 // }
 ///         question hum khali prompt ko kis trha condition me use kr sakten hen?
-//****************     Assignment 8 *****   Task 6 **********
+
+
+//********Chapter 12-13**     Assignment 8 *****   Task 6 **********
 
 // var greeting;
 // var hour = 13; 
@@ -624,7 +628,7 @@
 //     alert(greeting);
 // }
 
-//****************     Assignment 8 *****   Task 7 **********
+//********Chapter 12-13**     Assignment 8 *****   Task 7 **********
 
 // var hours=prompt("Enter Time in 24 standard","");
 // if(11.59>=hours){
@@ -635,20 +639,20 @@
 //     alert("Invalid Time ");
 // }
 
-//****************     Assignment 9 *****   Task 1 **********
+//********Chapter 14-16**     Assignment 9 *****   Task 1 **********
 
 // var studName=[];
 
-//****************     Assignment 9 *****   Task 2 **********
+//********Chapter 14-16**   Assignment 9 *****   Task 2 **********
 
 //// not understand what question ask
 
-//****************     Assignment 9 *****   Task 3 **********
+//********Chapter 14-16**     Assignment 9 *****   Task 3 **********
 
 // var array=["Abid",23,"Karachi"]
 // alert(array);
 
-//****************     Assignment 9 *****   Task 4 **********
+//********Chapter 14-16**     Assignment 9 *****   Task 4 **********
 
 // var array=[];
 //  array[0]="Abid";
@@ -656,7 +660,7 @@
 //  array[2]="Abbbid";
 // alert(array);
 
-//****************     Assignment 9 *****   Task 5 **********
+//********Chapter 14-16**     Assignment 9 *****   Task 5 **********
 
 // var found="False";
 // var boolean=["Surfaraz","Afridi","Hafeez"];
@@ -672,11 +676,11 @@
 //      }
 // }
 
-//****************     Assignment 9 *****   Task 6 **********
+//********Chapter 14-16**     Assignment 9 *****   Task 6 **********
 
 //// not understand what question ask
 
-//****************     Assignment 9 *****   Task 7 **********
+//********Chapter 14-16**     Assignment 9 *****   Task 7 **********
 
 // var eduLevel=["SSC","HSC","BCS","BS","BCOM","MS","M.Phil.","PhD"];
 // document.write("<h1>Qualification:</h1>");
@@ -685,7 +689,7 @@
 // document.write((i+1)+")"+eduLevel[i]+"<br>");
 // }
 
-//****************     Assignment 9 *****   Task 8 **********
+//********Chapter 14-16**     Assignment 9 *****   Task 8 **********
 
 // var stud=["Abid","Ali","Ebad"];
 // var marksObtained=[355,345,451];
@@ -695,7 +699,7 @@
 // document.write("Score of "+stud[i]+" is "+ marksObtained[i]+". Percentage: "+((marksObtained[i]/totalMarks)*100)+"%<br>");
 // }
 
-//****************     Assignment 9 *****   Task 9 **********
+//********Chapter 14-16**     Assignment 9 *****   Task 9 **********
 
 // var colors=["Red","Blue","Orange"];
 // alert("Provided Colors are "+ colors);
@@ -730,11 +734,11 @@
 // var remcolor=colors.splice(index,addstart);
 // alert("After Deleting Colors "+remcolor+" from "+(index)+" to "+addstart+" Updated list is "+colors);
 
-//****************     Assignment 9 *****   Task 10 **********
+//********Chapter 14-16**     Assignment 9 *****   Task 10 **********
 
 //// not understand how to solve it.
 
-//****************     Assignment 9 *****   Task 11 **********
+//********Chapter 14-16**     Assignment 9 *****   Task 11 **********
 
 // var cities=["Karachi","Lahore","Islamabad","Quetta","Peshawar"];
 // alert(cities);
@@ -746,7 +750,7 @@
 // // alert(copyCities);
 // document.write("<br>Selected Cities List<br>"+copyCities);
 
-//****************     Assignment 9 *****   Task 12 **********
+//********Chapter 14-16**     Assignment 9 *****   Task 12 **********
 
 // var arr = [" This "," is "," my "," cat "];
 // document.write("Array:<br>"+arr+"<br>");
@@ -755,7 +759,7 @@
 // document.write("<br>String:<br>"+arr);
 // console.log(arr);
 
-//****************     Assignment 9 *****   Task 13 **********
+//********Chapter 14-16**     Assignment 9 *****   Task 13 **********
 
 // var gadgets=["Keyboard","Mouse","Printer","Monitor"];
 // alert("Provided Gadgets are "+ gadgets);
@@ -773,7 +777,7 @@
 // alert("Updated Gadgets are "+ gadgets);
 // document.write("<br>Provided Gadgets are Empty"+ gadgets+"<br>");
 
-//****************     Assignment 9 *****   Task 14 **********
+//********Chapter 14-16**     Assignment 9 *****   Task 14 **********
 
 // var gadgets=["Keyboard","Mouse","Printer","Monitor"];
 // alert("Provided Gadgets are "+ gadgets);
@@ -791,7 +795,7 @@
 // alert("Updated Gadgets are "+ gadgets);
 // document.write("<br>Provided Gadgets are Empty"+ gadgets+"<br>");
 
-//****************     Assignment 9 *****   Task 15 **********
+//********Chapter 14-16**     Assignment 9 *****   Task 15 **********
 
 // var phoneBrand=["Apple","Samsung","Motorola","Nokia","Sony","Haier"];
 // document.write("<select>")
@@ -800,12 +804,12 @@
 // }
 // document.write("</select>")
 
-//****************     Assignment 10 *****   Task 1 **Chapter 17-20 **********
+//********Chapter 17-20**     Assignment 10 *****   Task 1 
 
 // var columns=[0,1,2,3];
 // var rows=[0,1,2];
 
-//****************     Assignment 10 *****   Task 2 **Chapter 17-20 **********
+//********Chapter 17-20**     Assignment 10 *****   Task 2 
 
 // var columns=[0,1,2,3];
 // var rows=[0,1,2];
@@ -818,13 +822,13 @@
         // document.write("<br>"+columns);
         // }
 // }
-//****************     Assignment 10 *****   Task 3 **Chapter 17-20 **********
+//********Chapter 17-20**     Assignment 10 *****   Task 3 
 
 // for(var i=1; i<=10; i++){
 //     document.write(i+"<br>");
 // }
 
-//****************     Assignment 10 *****   Task 4 **Chapter 17-20 **********
+//********Chapter 17-20**     Assignment 10 *****   Task 4 
 
 // var taBle=prompt("Enter Value to Generate Table","");
 // var lenGth=prompt("Enter Length of the Table","");
@@ -835,7 +839,7 @@
 
 //     }
 
-//****************     Assignment 10 *****   Task 5 **Chapter 17-20 **********
+//********Chapter 17-20**     Assignment 10 *****   Task 5 
 
 // var fruits = ["apple", "banana", "mango", "orange", "strawberry"];
 // for(var i=0;i<fruits.length;i++){
@@ -845,7 +849,7 @@
 //     document.write("<br>Element at index "+i+" is "+fruits[i]);
 // }
 
-// ****************     Assignment 10 *****   Task 6 **Chapter 17-20 **********
+//********Chapter 17-20**     Assignment 10 *****   Task 6
 
 // document.write("<br>Counting:<br><br>");
 // for(var i=0;i<=10;i++){
@@ -868,7 +872,7 @@
 //     document.write(i+"k<br>");
 // }
 
-// ****************     Assignment 10 *****   Task 7 **Chapter 17-20 **********
+//********Chapter 17-20**     Assignment 10 *****   Task 7
 
 // var A=["cake", "apple pie", "cookie", "chips", "patties"] 
 // var check=prompt("Welcome to ABC Bakery. What do you want to order sir/ma'am?","");
@@ -879,7 +883,7 @@
 
 // }
 
-// ****************     Assignment 10 *****   Task 8 **Chapter 17-20 **********
+//********Chapter 17-20**     Assignment 10 *****   Task 8 
 
 // var A=[24, 53, 78, 91,77,100,12,10101,34];
 // document.write("Array items: "+A+"<br>");
@@ -896,7 +900,7 @@
 // document.write("Array After sourt items: "+A+"<br>");
 // document.write("The Largest number is "+A[b-1]);
 
-// ****************     Assignment 10 *****   Task 9 **Chapter 17-20 **********
+//********Chapter 17-20**     Assignment 10 *****   Task 9 
 
 // var A=[24, 78, 91, 12,77,100,10101,34];
 // document.write("Array items: "+A+"<br>");
@@ -913,7 +917,7 @@
 // document.write("Array after sourt items: "+A+"<br>");
 // document.write("The Largest number is "+A[b-1]);
 
-// ****************     Assignment 10 *****   Task 10 **Chapter 17-20 **********
+//********Chapter 17-20**     Assignment 10 *****   Task 10
 
 var taBle=prompt("Enter Value to Generate Multiple of it","");
 for(i=1;(i*taBle)<=100;i++)
