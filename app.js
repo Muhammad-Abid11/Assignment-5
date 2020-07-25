@@ -1,6 +1,6 @@
 //********Chapter 1**  Assignment 5 *****   Task 1 **********
 
-//alert("Welcome to My Web Site");  
+//alert("Welcome to My Web Site");
 
 //********Chapter 1**   Assignment 5 *****   Task 2 **********
 
@@ -8,7 +8,7 @@
 
 //********Chapter 1**   Assignment 5 *****   Task 3 **********
 
-// alert("Welcome to JS Land \n Happy Coding!");  
+// alert("Welcome to JS Land \n Happy Coding!");
 
 //********Chapter 1**   Assignment 5 *****   Task 4 **********
 
@@ -132,27 +132,27 @@
 // if(operator === "-")
 //     {
 //         var c=a-b;
-//         document.write("Difference of "+a+" and "+b+" is "+c+".");   
+//         document.write("Difference of "+a+" and "+b+" is "+c+".");
 //     }
 // else if(operator === "*")
 //     {
 //         var c=a*b;
-//         document.write("Multiple of "+a+" and "+b+" is "+c+".");   
+//         document.write("Multiple of "+a+" and "+b+" is "+c+".");
 //     }
 // else if(operator === "/")
 //     {
 //         var c=a/b;
-//         document.write("Division of "+a+" by "+b+" is "+c+".");   
+//         document.write("Division of "+a+" by "+b+" is "+c+".");
 //     }
 // else if(operator === "+")
 //     {
 //         var c=a+b;
-//         document.write("Sum of "+a+" and "+b+" is "+c+".");   
+//         document.write("Sum of "+a+" and "+b+" is "+c+".");
 //     }
 // else if(operator === "%")
 //     {
 //         var c=b/a;
-//         document.write("Modulus of "+a+" and "+b+" is "+c*100+"% .");   
+//         document.write("Modulus of "+a+" and "+b+" is "+c*100+"% .");
 //     }
 
 //********Chapter 5**   Assignment 5 *****   Task 3 **********
@@ -297,7 +297,7 @@
 //     }
 // }
 // if(taBle==="null")
-// {   
+// {
 //     var a=5;
 //     document.write("Table of "+a);
 //     for(i=1;i<=10;i++)
@@ -385,7 +385,7 @@
 
 //// var a = 4;
 //// if (++a === 5)
-//// { 
+//// {
 ////     alert("given condition for variable a is true");
 //// }
 
@@ -395,10 +395,10 @@
 
 //********Chapter 9-11**     Assignment 5 *****   Task 5  part 'b' **********
 
-//// var b = 82; 
-////if (b++ === 83){ 
-////     alert("given condition for variable b is true"); 
-//// } 
+//// var b = 82;
+////if (b++ === 83){
+////     alert("given condition for variable b is true");
+//// }
 
     //  alert("given condition for variable b is False because  the condition is not statisfied");
 
@@ -420,10 +420,10 @@
 //********Chapter 9-11**     Assignment 5 *****   Task 5  part 'd' **********
 
 //// var materialCost = 20000;
-//// var laborCost = 2000; 
-//// var totalCost = materialCost + laborCost; 
+//// var laborCost = 2000;
+//// var totalCost = materialCost + laborCost;
 //// if (totalCost === laborCost + materialCost){
-////      alert("The cost equals"); 
+////      alert("The cost equals");
 ////     }
 
     //  alert("Because Condition satisfied");
@@ -432,18 +432,18 @@
 //********Chapter 9-11**     Assignment 5 *****   Task 5  part 'e' **********
 
 //// if(true){
-////     alert("True"); 
+////     alert("True");
 //// } if (false){
 ////     alert("False");
-//// } 
- 
+//// }
+
     //  alert("True Because by default it contain true higher possible value");
 
 //********Chapter 9-11**     Assignment 5 *****   Task 5  part 'f' **********
 
-//// if("car" > "cat"){ 
-////     alert("car is smaller than cat"); 
-//// } 
+//// if("car" > "cat"){
+////     alert("car is smaller than cat");
+//// }
 
     //  alert("In such if condition it check out the index value of each letter and compare them");
 
@@ -528,27 +528,27 @@
 // if(operator === "-")
 //     {
 //         var c=a-b;
-//         document.write("Difference of "+a+" and "+b+" is "+c+".");   
+//         document.write("Difference of "+a+" and "+b+" is "+c+".");
 //     }
 // else if(operator === "*")
 //     {
 //         var c=a*b;
-//         document.write("Multiple of "+a+" and "+b+" is "+c+".");   
+//         document.write("Multiple of "+a+" and "+b+" is "+c+".");
 //     }
 // else if(operator === "/")
 //     {
 //         var c=a/b;
-//         document.write("Division of "+a+" by "+b+" is "+c+".");   
+//         document.write("Division of "+a+" by "+b+" is "+c+".");
 //     }
 // else if(operator === "+")
 //     {
 //         var c=a+b;
-//         document.write("Sum of "+a+" and "+b+" is "+c+".");   
+//         document.write("Sum of "+a+" and "+b+" is "+c+".");
 //     }
 // else if(operator === "%")
 //     {
 //         var c=b/a;
-//         document.write("Modulus of "+a+" and "+b+" is "+c*100+"% .");   
+//         document.write("Modulus of "+a+" and "+b+" is "+c*100+"% .");
 //     }
 
 //********Chapter 12-13**     Assignment 5 *****   Task 1 **********
@@ -618,13 +618,13 @@
 //********Chapter 12-13**     Assignment 5 *****   Task 6 **********
 
 // var greeting;
-// var hour = 13; 
+// var hour = 13;
 // if (hour < 18){
 //     greeting = "Good day";
 //     alert(greeting);
-// } 
+// }
 // else{
-//     greeting = "Good evening"; 
+//     greeting = "Good evening";
 //     alert(greeting);
 // }
 
@@ -668,9 +668,9 @@
 // for (var i = 0; i < 3; i++)
 // {
 //     if (captain === boolean[i]){
-//         found = "True"; 
+//         found = "True";
 //         alert("Your Captain is Afridi");
-//      } 
+//      }
 //      if (captain === "False") {
 //          alert("Your Captain isn't Afridi");
 //      }
@@ -804,17 +804,17 @@
 // }
 // document.write("</select>")
 
-//********Chapter 17-20**     Assignment 5 *****   Task 1 
+//********Chapter 17-20**     Assignment 5 *****   Task 1
 
 // var columns=[0,1,2,3];
 // var rows=[0,1,2];
 
-//********Chapter 17-20**     Assignment 5 *****   Task 2 
+//********Chapter 17-20**     Assignment 5 *****   Task 2
 
 // var columns=[0,1,2,3];
 // var rows=[0,1,2];
 // // alert(columns)
-// for(var i=0;i<rows.length;i++) 
+// for(var i=0;i<rows.length;i++)
 // {
         // for(var j=i;j<columns.length;j++)
         // {
@@ -822,13 +822,13 @@
         // document.write("<br>"+columns);
         // }
 // }
-//********Chapter 17-20**     Assignment 5 *****   Task 3 
+//********Chapter 17-20**     Assignment 5 *****   Task 3
 
 // for(var i=1; i<=10; i++){
 //     document.write(i+"<br>");
 // }
 
-//********Chapter 17-20**     Assignment 5 *****   Task 4 
+//********Chapter 17-20**     Assignment 5 *****   Task 4
 
 // var taBle=prompt("Enter Value to Generate Table","");
 // var lenGth=prompt("Enter Length of the Table","");
@@ -839,7 +839,7 @@
 
 //     }
 
-//********Chapter 17-20**     Assignment 5 *****   Task 5 
+//********Chapter 17-20**     Assignment 5 *****   Task 5
 
 // var fruits = ["apple", "banana", "mango", "orange", "strawberry"];
 // for(var i=0;i<fruits.length;i++){
@@ -874,16 +874,16 @@
 
 //********Chapter 17-20**     Assignment 5 *****   Task 7
 
-// var A=["cake", "apple pie", "cookie", "chips", "patties"] 
+// var A=["cake", "apple pie", "cookie", "chips", "patties"]
 // var check=prompt("Welcome to ABC Bakery. What do you want to order sir/ma'am?","");
 // if(A.indexOf(check) !==-1){
-//     alert("Yes! Is available in our bakery"); 
+//     alert("Yes! Is available in our bakery");
 // }else{
 //     alert("We are sorry! is not available in our bakery");
 
 // }
 
-//********Chapter 17-20**     Assignment 5 *****   Task 8 
+//********Chapter 17-20**     Assignment 5 *****   Task 8
 
 // var A=[24, 53, 78, 91,77,100,12,10101,34];
 // document.write("Array items: "+A+"<br>");
@@ -900,7 +900,7 @@
 // document.write("Array After sourt items: "+A+"<br>");
 // document.write("The Largest number is "+A[b-1]);
 
-//********Chapter 17-20**     Assignment 5 *****   Task 9 
+//********Chapter 17-20**     Assignment 5 *****   Task 9
 
 // var A=[24, 78, 91, 12,77,100,10101,34];
 // document.write("Array items: "+A+"<br>");
